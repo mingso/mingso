@@ -47,6 +47,8 @@
 </p>
 <br>
 
+![snake gif](https://github.com/mingso/mingso/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **mingso/mingso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
