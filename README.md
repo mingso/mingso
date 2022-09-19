@@ -6,9 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat&logo=Kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-Objective--C-%23AC5DF3"/></a>&nbsp
   <br>
 	<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a>&nbsp
 </p>
@@ -22,7 +20,7 @@
 	<th> Organization </th>
 	<tr>
 		<td>University</td>
-		<td>2020.03 ~ 2022.08 (expected)</td>
+		<td>2020.03 ~ 2022.08</td>
 		<td><a href="https://www.skku.edu/eng/About/pr/greeting.do">SungKyunKwan Univ.</a></td>
 	</tr>
 	<tr>
